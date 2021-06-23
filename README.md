@@ -1,2 +1,4 @@
 # VsCode
 AspNetCoreProjeDenemeleri
+
+#VsCode Commit
